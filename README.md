@@ -48,4 +48,20 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 **Technology used:** SQL serve
 
+#Project 3
+
+**Title:** sugar consumption
+
+**SQL Code:**[https://github.com/vivian744/vivian74.github.io/blob/main/sugar%20consumption)
+
+**SQL Skills Used:**Data Retrieval (SELECT): Queried and extracted specific information from the database.
+Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+
+**Project Description:**
+
+**Technology used:** SQL server
+
 
