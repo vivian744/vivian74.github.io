@@ -64,4 +64,21 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 **Technology used:** SQL server
 
+#Project 4
+
+**Title:**[vidas sales report](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fvivian744%2Fvivian74.github.io%2Frefs%2Fheads%2Fmain%2F03%2520-%2520Data%2520Analyst%2520Excel%2520Project.xlsx&wdOrigin=BROWSELINK)
+
+**Tools Used:** Microsoft Excel, Pivot table, Pivot cart and slicers, timeline
+
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview:**![vidassalesreport](vidassalesreport.png)
+
+
+
+
+
 
