@@ -34,3 +34,18 @@ The report reveals that North America leads in sugar consumption and processed f
 ![SUGARCONSUMPTION](SUGARCONSUMPTION.png)
 
 #Project 2
+
+**Title:** sales record- SQL data manupulation and interogation
+
+**SQL Code:** [https://github.com/vivian744/vivian74.github.io/blob/main/sales_record.sql]
+
+**SQL Skills Used:** Data Retrieval (SELECT): Queried and extracted specific information from the database.
+Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+**Project Description:**
+
+**Technology used:** SQL serve
+
+
