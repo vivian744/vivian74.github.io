@@ -32,3 +32,5 @@ The report reveals that North America leads in sugar consumption and processed f
 
 **Dashboard Overview:**
 ![SUGARCONSUMPTION](SUGARCONSUMPTION.png)
+
+#Project 2
