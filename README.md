@@ -38,6 +38,7 @@ The report reveals that North America leads in sugar consumption and processed f
 **Title:** sales record- SQL data manupulation and interogation
 
 **SQL Code:** [sales data sql code](https://github.com/vivian744/vivian74.github.io/blob/main/sales_data.sql)
+
 **SQL Skills Used:** Data Retrieval (SELECT): Queried and extracted specific information from the database.
 Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
 Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
@@ -81,6 +82,7 @@ This project analyzes 2024 sales data for Vida stores, providing insights into p
    * Category: Examining sales across different product categories.
    * Month: Filtering data to view performance in specific months.
 This dashboard offers a comprehensive understanding of sales patterns and delivery status, enabling data-driven decision-making.
+
 **Key findings:**"Sales by Gender" pie chart, it appears men's sales are significantly higher than women's. The "Top 5 States with Highest Sales" bar graph shows menaharashtra leading. The "Sales by Month" line graph indicates a peak around March, with a sharp decline afterward and another peak around August. The "Order by Distribution Channel" chart highlights "Amenazon" as the most popular channel, and the "Order Status" pie chart shows a high percentage of completed orders. Would you like a more detailed breakdown of any of these areas?
 
 **Dashboard Overview:**![vidassalesreport](vidassalesreport.png)
@@ -113,7 +115,7 @@ Key deliverables included:
 
 **Title:** [Global sales](https://github.com/vivian744/vivian74.github.io/blob/main/03%20-%20Data%20Analyst%20Excel%20Project.xlsx)
 
-**Tools Used:**microsoft power Bi
+**Tools Used:** microsoft power Bi
 
 **Project Description:** A comprehensive dashboard to analyze and visualize global sales performance. Key metrics displayed include total sales by month (line chart), total sales by market (donut chart), shipping mode distribution across segments (pie chart), total profit by top 5 states (bar chart), and total quantity by country (line and bar charts highlighting the top 5). Integrated interactive slicers for Category, Market, and Order Date, facilitating dynamic filtering and in-depth analysis.
 
