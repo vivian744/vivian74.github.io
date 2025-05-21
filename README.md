@@ -43,7 +43,7 @@ Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, 
 Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
 Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 
-**Project Description:** 
+**Project Description:** These queries are  analyzing different aspects of sales data across various countries and years. They're looking at things like total sales, average sales per country and how these values change over time. 
 
 **Technology used:** SQL serve
 
@@ -59,7 +59,7 @@ Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant dat
 Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 
 
-**Project Description:**These queries are  analyzing different aspects of sugar consumption across various countries and years. They're looking at things like total sugar consumption, average consumption per person, and how these values change over time. 
+**Project Description:** These queries are  analyzing different aspects of sugar consumption across various countries and years. They're looking at things like total sugar consumption, average consumption per person, and how these values change over time. 
 
 **Technology used:** SQL server
 
